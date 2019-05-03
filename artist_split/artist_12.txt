@@ -1,0 +1,251 @@
+artist	SONG	TITLE	ID
+T-KILLAH ft. Александр МАРШАЛ	Я БУДУ ПОМНИТЬ	T-KILLAH ft. Александр МАРШАЛ - Я БУДУ ПОМНИТЬ	3033
+Tom JONES	LADY MADONNA	Tom JONES - LADY MADONNA	3034
+Tom JONES & Hugh LAURIE	BABY PLEASE MAKE A CHANGE	Tom JONES & Hugh LAURIE - BABY PLEASE MAKE A CHANGE	3035
+Tom ODELL	ANOTHER LOVE	Tom ODELL - ANOTHER LOVE	3036
+Tom WAITS	BAD AS ME	Tom WAITS - BAD AS ME	3037
+Tomas NEVERGREEN	I SEE YOUR SMILE	Tomas NEVERGREEN - I SEE YOUR SMILE	3038
+Tommy JAMES & THE SHONDELLS	MONY MONY	Tommy JAMES & THE SHONDELLS - MONY MONY	3039
+Tony AVILA	LA CHOZA DE CHACHO Y CHICHA	Tony AVILA - LA CHOZA DE CHACHO Y CHICHA	3040
+Tony BENNETT & LADY GAGA	CHEEK TO CHEEK	Tony BENNETT & LADY GAGA - CHEEK TO CHEEK	3041
+Tony BENNETT & LADY GAGA	I WON'T DANCE	Tony BENNETT & LADY GAGA - I WON'T DANCE	3042
+Tony BENNETT & LADY GAGA	THE LADY IS A TRAMP	Tony BENNETT & LADY GAGA - THE LADY IS A TRAMP	3043
+Tony HADLEY	HAVE YOURSELF A MERRY LITTLE CHRISTMAS	Tony HADLEY - HAVE YOURSELF A MERRY LITTLE CHRISTMAS	3044
+Tony HADLEY	SANTA CLAUS IS COMING TO DOWN	Tony HADLEY - SANTA CLAUS IS COMING TO DOWN	3045
+Tori AMOS	WELCOME TO ENGLAND	Tori AMOS - WELCOME TO ENGLAND	3046
+Toto CUTUGNO & Леонсия ЭРДЕНКО	AMORE NO	Toto CUTUGNO & Леонсия ЭРДЕНКО - AMORE NO	3047
+TRIBAL	LJUBAV NIKOM NE DAM	TRIBAL - LJUBAV NIKOM NE DAM	3048
+Tyler FARR	A GUY WALKS INTO A BAR	Tyler FARR - A GUY WALKS INTO A BAR	3049
+Tyler JAMES	YOUR WOMAN	Tyler JAMES - YOUR WOMAN	3050
+U2	THE HANDS THAT BUILT AMERICA	U2 - THE HANDS THAT BUILT AMERICA	3051
+The UB40	TELL ME IS IT TRUE	The UB40 - TELL ME IS IT TRUE	3052
+Udo LINDENBERG & DAS PANIKORCHESTER	MEIN DING	Udo LINDENBERG & DAS PANIKORCHESTER - MEIN DING	3053
+Udo LINDENBERG & DAS PANIKORCHESTER	ODYSSEE	Udo LINDENBERG & DAS PANIKORCHESTER - ODYSSEE	3054
+Udo LINDENBERG & Das PANIKORCHESTER	MACKIE MESSER	Udo LINDENBERG & Das PANIKORCHESTER - MACKIE MESSER	3055
+Vanessa MAE	THE DEVIL'S TRILL	Vanessa MAE - THE DEVIL'S TRILL	3056
+Vanessa PARADIS	IL YA	Vanessa PARADIS - IL YA	3057
+Vanessa PARADIS	LES ESPACES & LES SENTIMENTS	Vanessa PARADIS - LES ESPACES & LES SENTIMENTS	3058
+Vanessa PARADIS	L'INCENDIE	Vanessa PARADIS - L'INCENDIE	3059
+Vanessa PARADIS & M	LA SEINE	Vanessa PARADIS & M - LA SEINE	3060
+VANGELIS	ANTHEM	VANGELIS - ANTHEM	3061
+VANILLE	MOI GARCON	VANILLE - MOI GARCON	3062
+VARIOUS	ПАРАЛИМПИЙСКИЙ ГИМН (ДОРОГА К СЧАСТЬЮ)	VARIOUS - ПАРАЛИМПИЙСКИЙ ГИМН (ДОРОГА К СЧАСТЬЮ)	3063
+VARIOUS ARTIST	ГИМН РАДИО ШАНСОН	VARIOUS ARTIST - ГИМН РАДИО ШАНСОН	3064
+VARIOUS ARTISTS	IL MIO CANTO LIBERO	VARIOUS ARTISTS - IL MIO CANTO LIBERO	3065
+VARIOUS ARTISTS	LES TEMPS DES FLEURS	VARIOUS ARTISTS - LES TEMPS DES FLEURS	3066
+VARIOUS ARTISTS	MEDLEY TUBES DE L'ETE	VARIOUS ARTISTS - MEDLEY TUBES DE L'ETE	3067
+VARIOUS ARTISTS	КАЛИНА КРАСНАЯ	VARIOUS ARTISTS - КАЛИНА КРАСНАЯ	3068
+VARIOUS ARTISTS	НОВЫЙ ГОД	VARIOUS ARTISTS - НОВЫЙ ГОД	3069
+Vasco HERNANDEZ	ALGARABIAS	Vasco HERNANDEZ - ALGARABIAS	3070
+Vasco ROSSI	COME VORREI	Vasco ROSSI - COME VORREI	3071
+Vasco ROSSI	GUAI	Vasco ROSSI - GUAI	3072
+VELILE	INJABULO	VELILE - INJABULO	3073
+VELIRA	ОСЕННИЙ БЛЮЗ	VELIRA - ОСЕННИЙ БЛЮЗ	3074
+VENGEROV & FEDOROFF	В ГОСТЯХ У СКАЗКИ	VENGEROV & FEDOROFF - В ГОСТЯХ У СКАЗКИ	3075
+VENGEROV & FEDOROFF	ВЛАДИМИРСКИЙ ЦЕНТРАЛ	VENGEROV & FEDOROFF - ВЛАДИМИРСКИЙ ЦЕНТРАЛ	3076
+VENGEROV & FEDOROFF & Лика СТАР	КРУТИМ-МУТИМ	VENGEROV & FEDOROFF & Лика СТАР - КРУТИМ-МУТИМ	3077
+VERAX	РАНЬШЕ МАМУ Я НЕ СЛУШАЛА	VERAX - РАНЬШЕ МАМУ Я НЕ СЛУШАЛА	3078
+VERAX	СПАСИБО (РОМАНС)	VERAX - СПАСИБО (РОМАНС)	3079
+VERKA SERDUCHKA	DANCING LASHA TUMBAI	VERKA SERDUCHKA - DANCING LASHA TUMBAI	3080
+VERKA SERDUCHKA	DO RE MI	VERKA SERDUCHKA - DO RE MI	3081
+VERKA SERDUCHKA	ESSEN	VERKA SERDUCHKA - ESSEN	3082
+VERKA SERDUCHKA	EVRO VISION QUEEN	VERKA SERDUCHKA - EVRO VISION QUEEN	3083
+VERKA SERDUCHKA	KISS, PLEASE	VERKA SERDUCHKA - KISS, PLEASE	3084
+VERKA SERDUCHKA	А Я СМЕЮСЬ	VERKA SERDUCHKA - А Я СМЕЮСЬ	3085
+VERKA SERDUCHKA	БЕРИ ВСЁ (ЧТО У МЕНЯ ЕСТЬ)	VERKA SERDUCHKA - БЕРИ ВСЁ (ЧТО У МЕНЯ ЕСТЬ)	3086
+VERKA SERDUCHKA	ВСЁ БУДЕТ ХОРОШО	VERKA SERDUCHKA - ВСЁ БУДЕТ ХОРОШО	3087
+VERKA SERDUCHKA	ГОП-ГОП	VERKA SERDUCHKA - ГОП-ГОП	3088
+VERKA SERDUCHKA	ПИРОЖОК	VERKA SERDUCHKA - ПИРОЖОК	3089
+VERKA SERDUCHKA	ТРАЛИ-ВАЛИ	VERKA SERDUCHKA - ТРАЛИ-ВАЛИ	3090
+VERKA SERDUCHKA	ТУК, ТУК, ТУК	VERKA SERDUCHKA - ТУК, ТУК, ТУК	3091
+VERKA SERDUCHKA	ХОРОШО КРАСАВИЦАМ	VERKA SERDUCHKA - ХОРОШО КРАСАВИЦАМ	3092
+VERKA SERDUCHKA	ЧИТА ДРИТА	VERKA SERDUCHKA - ЧИТА ДРИТА	3093
+VERKA SERDUCHKA	Я ПОПАЛА НА ЛЮБОВЬ	VERKA SERDUCHKA - Я ПОПАЛА НА ЛЮБОВЬ	3094
+VESNA & Юрий УСАЧЁВ	ДЛЯ ЧЕГО	VESNA & Юрий УСАЧЁВ - ДЛЯ ЧЕГО	3095
+Victor SERHAT & LAZLO	TOTAL DISGUISE	Victor SERHAT & LAZLO - TOTAL DISGUISE	3096
+VIGON BAMY JAY	FEELINGS	VIGON BAMY JAY - FEELINGS	3097
+Vinicio CAPOSSELA	MARAJA	Vinicio CAPOSSELA - MARAJA	3098
+Vinicio CAPOSSELA	SCIVOLA VAI VIA	Vinicio CAPOSSELA - SCIVOLA VAI VIA	3099
+Vinicio CAPOSSELA	УТРЕННЯЯ ГИМНАСТИКА	Vinicio CAPOSSELA - УТРЕННЯЯ ГИМНАСТИКА	3100
+VITAA	NO LIMIT	VITAA - NO LIMIT	3101
+VITALIC ft. David SHAW & The BEAT	WAITING FOR THE STARS	VITALIC ft. David SHAW & The BEAT - WAITING FOR THE STARS	3102
+Vivienne MORT	ПТАШЕЧКА	Vivienne MORT - ПТАШЕЧКА	3103
+VLAD POLAK BAND	В НАРИСОВАННОМ ДОМЕ	VLAD POLAK BAND - В НАРИСОВАННОМ ДОМЕ	3104
+Whitney HOUSTON	I WILL ALWAYS LOVE YOU	Whitney HOUSTON - I WILL ALWAYS LOVE YOU	3105
+Whitney HOUSTON & Mariah CAREY	WHEN YOU BELIEVE	Whitney HOUSTON & Mariah CAREY - WHEN YOU BELIEVE	3106
+WILL.I.AM	BANG BANG	WILL.I.AM - BANG BANG	3107
+William SHELLER	LES ENFANTS DU WEEK-END	William SHELLER - LES ENFANTS DU WEEK-END	3109
+Willie NELSON	JUST BREATHE	Willie NELSON - JUST BREATHE	3110
+Willy MOON	YEAH YEAH	Willy MOON - YEAH YEAH	3111
+Willy WILLIAM	EGO	Willy WILLIAM - EGO	3112
+Wiz KHALIFA & Charlie PUTH	SEE YOU AGAIN	Wiz KHALIFA & Charlie PUTH - SEE YOU AGAIN	3113
+WOLFE & Emma SAMETH & DNTST	HIGHER	WOLFE & Emma SAMETH & DNTST - HIGHER	3114
+WOODKID	IRON	WOODKID - IRON	3115
+WOODKID	RUN BOY RUN	WOODKID - RUN BOY RUN	3116
+Xavier NAIDOO	WO WILLST DU HIN?	Xavier NAIDOO - WO WILLST DU HIN	3117
+X-MODE & DJ НИЛ	ЖИВОТНЫЕ (ANIMALS)	X-MODE & DJ НИЛ - ЖИВОТНЫЕ (ANIMALS)	3118
+Yannick NOAH	ANGELA	Yannick NOAH - ANGELA	3119
+Yannick NOAH	OSE	Yannick NOAH - OSE	3120
+Yaron HERMAN ft. Helgi JONSSON	VOLCANO	Yaron HERMAN ft. Helgi JONSSON - VOLCANO	3121
+YELAWOLF	TILL IT'S GONE	YELAWOLF - TILL IT'S GONE	3122
+YOLANDA BE COOL & CRYSTAL WATERS	LE BUMP	YOLANDA BE COOL & CRYSTAL WATERS - LE BUMP	3123
+YOURI	VIVRE DANS LA LUMIERE	YOURI - VIVRE DANS LA LUMIERE	3124
+Youssou N'DOUR & Neneh CHERRY	7 SECONDS	Youssou N'DOUR & Neneh CHERRY - 7 SECONDS	3125
+Yves MONTAND	LE MEGOT	Yves MONTAND - LE MEGOT	3126
+ZAP MAMA & G. LOVE	DRIFTING	ZAP MAMA & G. LOVE - DRIFTING	3127
+ZAZ	AUX DETENTEURS	ZAZ - AUX DETENTEURS	3128
+ZAZ	DANS MA RUE	ZAZ - DANS MA RUE	3129
+ZAZ	EBLOUIE PAR LA NIUT	ZAZ - EBLOUIE PAR LA NIUT	3130
+ZAZ	GAMINE	ZAZ - GAMINE	3131
+ZAZ	J'AIME A NOUVEAU	ZAZ - J'AIME A NOUVEAU	3132
+ZAZ	J'ARRIVE PAS	ZAZ - J'ARRIVE PAS	3133
+ZAZ	JE SAUTE PARTOUT	ZAZ - JE SAUTE PARTOUT	3134
+ZAZ	JE VEUX	ZAZ - JE VEUX	3135
+ZAZ	LA CUICA FAMILY	ZAZ - LA CUICA FAMILY	3136
+ZAZ	LA FEE	ZAZ - LA FEE	3137
+ZAZ	LE LONG DE LA ROUTE	ZAZ - LE LONG DE LA ROUTE	3138
+ZAZ	LES PASSANTS	ZAZ - LES PASSANTS	3139
+ZAZ	MA FOLIE	ZAZ - MA FOLIE	3140
+ZAZ	NI OUI NI NON	ZAZ - NI OUI NI NON	3141
+ZAZ	ON IRA	ZAZ - ON IRA	3142
+ZAZ	PORT COTON	ZAZ - PORT COTON	3143
+ZAZ	PRAY THE SUNSHINE	ZAZ - PRAY THE SUNSHINE	3144
+ZAZ	PRENDS GARDE A TA LANGUE	ZAZ - PRENDS GARDE A TA LANGUE	3145
+ZAZ	SI	ZAZ - SI	3146
+ZAZ	TOUS LES CRIS LES S.O.S.	ZAZ - TOUS LES CRIS LES S.O.S.	3147
+ZAZ	TROP SENSIBLE	ZAZ - TROP SENSIBLE	3148
+ZAZ & Pablo ALBORAN	SOUS LE CIEL DE PARIS	ZAZ & Pablo ALBORAN - SOUS LE CIEL DE PARIS	3149
+ZAZIE	DANSE AVEC LES LOOPS	ZAZIE - DANSE AVEC LES LOOPS	3150
+ZAZIE	DISCOLD	ZAZIE - DISCOLD	3151
+ZAZIE	EXCUSE MOI	ZAZIE - EXCUSE MOI	3152
+ZAZIE	FAUT PAS S'Y FIER	ZAZIE - FAUT PAS S'Y FIER	3153
+ZAZIE	PISE	ZAZIE - PISE	3154
+ZAZIE	RODEO	ZAZIE - RODEO	3155
+ZAZIE	UN POINT C'EST TOI	ZAZIE - UN POINT C'EST TOI	3156
+ZDOB SI ZDUB ft. LOREDANA & ЛИГАЛАЙЗ	БАЛКАНА МАМА	ZDOB SI ZDUB ft. LOREDANA & ЛИГАЛАЙЗ - БАЛКАНА МАМА	3157
+Zdravko COLIC	PAMUK	Zdravko COLIC - PAMUK	3158
+ZELENO	ПРАЗДНИК НАСТАЕТ	ZELENO - ПРАЗДНИК НАСТАЕТ	3159
+ZELENO	ШУБА	ZELENO - ШУБА	3160
+ZUCCHERO	AHUM	ZUCCHERO - AHUM	3161
+ZUCCHERO	BACCO PERBACCO	ZUCCHERO - BACCO PERBACCO	3162
+ZUCCHERO	BAILA	ZUCCHERO - BAILA	3163
+ZUCCHERO	BLU	ZUCCHERO - BLU	3164
+ZUCCHERO	COSI CELESTE	ZUCCHERO - COSI CELESTE	3165
+ZUCCHERO	CUBA LIBRE	ZUCCHERO - CUBA LIBRE	3166
+ZUCCHERO	DIAMANTE	ZUCCHERO - DIAMANTE	3167
+ZUCCHERO	DIAVOLO IN ME	ZUCCHERO - DIAVOLO IN ME	3168
+ZUCCHERO	DUNE MOSSE	ZUCCHERO - DUNE MOSSE	3169
+ZUCCHERO	E DELICATO	ZUCCHERO - E DELICATO	3170
+ZUCCHERO	GUANTANAMERA (GUAJIRA)	ZUCCHERO - GUANTANAMERA (GUAJIRA)	3171
+ZUCCHERO	IL MARE...	ZUCCHERO - IL MARE...	3172
+ZUCCHERO	IL PELO NELL'UOVO	ZUCCHERO - IL PELO NELL'UOVO	3173
+ZUCCHERO	IL VOLO	ZUCCHERO - IL VOLO	3174
+ZUCCHERO	INDACO DAGLI OCCHI DEL CIELO	ZUCCHERO - INDACO DAGLI OCCHI DEL CIELO	3175
+ZUCCHERO	LET IT SHINE	ZUCCHERO - LET IT SHINE	3176
+ZUCCHERO	LOVE IS ALL AROUND	ZUCCHERO - LOVE IS ALL AROUND	3177
+ZUCCHERO	MAMA	ZUCCHERO - MAMA	3178
+ZUCCHERO	MAMA GET REAL	ZUCCHERO - MAMA GET REAL	3179
+ZUCCHERO	MENTA E ROSMARINO	ZUCCHERO - MENTA E ROSMARINO	3180
+ZUCCHERO	OCCHI	ZUCCHERO - OCCHI	3181
+ZUCCHERO	OVERDOSE D'AMORE	ZUCCHERO - OVERDOSE D'AMORE	3182
+ZUCCHERO	PAPA PERCHE	ZUCCHERO - PAPA PERCHE	3183
+ZUCCHERO	PARTIGIANO REGGIANO	ZUCCHERO - PARTIGIANO REGGIANO	3184
+ZUCCHERO	PRONTO	ZUCCHERO - PRONTO	3185
+ZUCCHERO	RIDAMMI IL SOLE	ZUCCHERO - RIDAMMI IL SOLE	3186
+ZUCCHERO	RISPETTO	ZUCCHERO - RISPETTO	3187
+ZUCCHERO	ROSSA MELA DELLA SERA	ZUCCHERO - ROSSA MELA DELLA SERA	3188
+ZUCCHERO	SENZA UNA DONNA	ZUCCHERO - SENZA UNA DONNA	3189
+ZUCCHERO	TROPPA FEDELTA	ZUCCHERO - TROPPA FEDELTA	3190
+ZUCCHERO	UN KILO	ZUCCHERO - UN KILO	3191
+ZUCCHERO	VA PENSIERO	ZUCCHERO - VA PENSIERO	3192
+ZUCCHERO	VEDO NERO	ZUCCHERO - VEDO NERO	3193
+ZUCCHERO	WONDERFUL LIFE	ZUCCHERO - WONDERFUL LIFE	3194
+ZUCCHERO	X COLPA DI CHI?	ZUCCHERO - X COLPA DI CHI	3195
+А. Петровская & Е. Баранова & А. Мушак	ИОАННЕ	А. Петровская & Е. Баранова & А. Мушак - ИОАННЕ	3196
+А.ГРИШКИНА & А.АНКУДИНОВ	МУМУ	А.ГРИШКИНА & А.АНКУДИНОВ - МУМУ	3197
+А.ГРИШКИНА & А.АНКУДИНОВ & А.АРКАНОВ	ПЕСЕНКА О ХОРОШЕМ НАСТРОЕНИИ	А.ГРИШКИНА & А.АНКУДИНОВ & А.АРКАНОВ - ПЕСЕНКА О ХОРОШЕМ НАСТРОЕНИИ	3198
+А.ШИРОЧЕНКО & А.АНКУДИНОВ	АХ, СУДАРЫНЯ...	А.ШИРОЧЕНКО & А.АНКУДИНОВ - АХ, СУДАРЫНЯ...	3199
+Авраам РУССО	МОИ ЧУВСТВА - КРУЖЕВА	Авраам РУССО - МОИ ЧУВСТВА - КРУЖЕВА	3200
+Авраам РУССО & Рада РАЙ	НЕ СБЕРЕГ	Авраам РУССО & Рада РАЙ - НЕ СБЕРЕГ	3201
+Авто КОНДЖАРИЯ	БЕРЕГУ	Авто КОНДЖАРИЯ - БЕРЕГУ	3202
+Аделя КОКОРИНА	ПЕРСОНА НОН ГРАТА	Аделя КОКОРИНА - ПЕРСОНА НОН ГРАТА	3203
+Ади БЕЛЛ	СЕРЫМ ОБЛАКОМ ДЫМ	Ади БЕЛЛ - СЕРЫМ ОБЛАКОМ ДЫМ	3204
+Адонис НИКОЛАИДИС	ДЕВУШКА ИЗ ВЫСШЕГО ОБЩЕСТВА	Адонис НИКОЛАИДИС - ДЕВУШКА ИЗ ВЫСШЕГО ОБЩЕСТВА	3205
+Азамат ЦАВКИЛОВ	ВРЕМЯ	Азамат ЦАВКИЛОВ - ВРЕМЯ	3206
+АЗИЗА	ВСЕ ИЛИ НИЧЕГО	АЗИЗА - ВСЕ ИЛИ НИЧЕГО	3207
+АЗИЗА	ЗВЕНИТ ЯНВАРСКАЯ ВЬЮГА	АЗИЗА - ЗВЕНИТ ЯНВАРСКАЯ ВЬЮГА	3208
+АЗИЗА	ЛЕГЕНДА О СЛЕПОМ ОРЛЕ	АЗИЗА - ЛЕГЕНДА О СЛЕПОМ ОРЛЕ	3209
+АЗИЗА	МНОГО РАЗНЫХ НА СВЕТЕ ПЕСЕН	АЗИЗА - МНОГО РАЗНЫХ НА СВЕТЕ ПЕСЕН	3210
+АЗИЗА	МОНОЛОГ	АЗИЗА - МОНОЛОГ	3211
+АЗИЗА	ПТИЦА ЛЕСНАЯ	АЗИЗА - ПТИЦА ЛЕСНАЯ	3212
+АЗИЗА	ТВОЯ УЛЫБКА	АЗИЗА - ТВОЯ УЛЫБКА	3213
+АЗИЗА	ТЫ МЕНЯ НЕ БУДИ	АЗИЗА - ТЫ МЕНЯ НЕ БУДИ	3214
+АЗИЗА & Игорь ТАЛЬКОВ мл	ПАМЯТЬ	АЗИЗА & Игорь ТАЛЬКОВ мл - ПАМЯТЬ	3215
+Аида ВЕДИЩЕВА	ПОМОГИ МНЕ	Аида ВЕДИЩЕВА - ПОМОГИ МНЕ	3216
+Аиша МЕЩЕРЯКОВА	ЖЕЛАННАЯ	Аиша МЕЩЕРЯКОВА - ЖЕЛАННАЯ	3217
+Айрат НАРЫШКИН	ЗОЛОТОЙ ГОРОД	Айрат НАРЫШКИН - ЗОЛОТОЙ ГОРОД	3218
+Айшат АЙСАЕВА	ДЕВУШКА ГОРЯНКА	Айшат АЙСАЕВА - ДЕВУШКА ГОРЯНКА	3219
+Айшат АЙСАЕВА	ДОЧЕНЬКА	Айшат АЙСАЕВА - ДОЧЕНЬКА	3220
+Акбота КЕРИМБЕКОВА	ЖУРЕК СЫРЫ	Акбота КЕРИМБЕКОВА - ЖУРЕК СЫРЫ	3221
+Алeна СВИРИДОВА	МОЖНО	Алeна СВИРИДОВА - МОЖНО	3222
+Алекс БИРЮЗА	ЗАМКНУТЫЙ КРУГ	Алекс БИРЮЗА - ЗАМКНУТЫЙ КРУГ	3223
+Алекса АСТЕР	ПУСТЬ ГОВОРЯТ	Алекса АСТЕР - ПУСТЬ ГОВОРЯТ	3224
+Александр & ЖЕКА ДЮМИН	БАЙКАЛ	Александр & ЖЕКА ДЮМИН - БАЙКАЛ	3225
+Александр DEI-RUSS	ТАНЦУЙ СО МНОЙ	Александр DEI-RUSS - ТАНЦУЙ СО МНОЙ	3226
+Александр FINN	ЛЮБИТЬ ПО-НАСТОЯЩЕМУ	Александр FINN - ЛЮБИТЬ ПО-НАСТОЯЩЕМУ	3227
+Александр АБДУЛОВ	ПРЕДСТАВЬ СЕБЕ (ВЕСЬ ЭТОТ МИР...)	Александр АБДУЛОВ - ПРЕДСТАВЬ СЕБЕ (ВЕСЬ ЭТОТ МИР...)	3228
+Александр АБДУЛОВ & Ирина АЛФЕРОВА	РАССВЕТ-ЗАКАТ	Александр АБДУЛОВ & Ирина АЛФЕРОВА - РАССВЕТ-ЗАКАТ	3229
+Александр АБДУЛОВ & Семён ФАРАДА	МАСКАРАД	Александр АБДУЛОВ & Семён ФАРАДА - МАСКАРАД	3230
+Александр АВЕРЬЯНОВ	КУКЛА	Александр АВЕРЬЯНОВ - КУКЛА	3231
+Александр АВЕРЬЯНОВ	НА ВЫСОТЕ	Александр АВЕРЬЯНОВ - НА ВЫСОТЕ	3232
+Александр АВЕРЬЯНОВ	ПЕСЕНКА ОБ ЭСТЕТИЧЕСКОМ ХИРУРГЕ	Александр АВЕРЬЯНОВ - ПЕСЕНКА ОБ ЭСТЕТИЧЕСКОМ ХИРУРГЕ	3233
+Александр АВЕРЬЯНОВ	Я СТОЮ НА ПОДОКОННИКЕ	Александр АВЕРЬЯНОВ - Я СТОЮ НА ПОДОКОННИКЕ	3234
+Александр АЙВАЗОВ	ЕЖИК В ТУМАНЕ	Александр АЙВАЗОВ - ЕЖИК В ТУМАНЕ	3235
+Александр АЙВАЗОВ	НЕТ, Я ПРОШУ ТЕБЯ, НЕ ПЛАЧЬ	Александр АЙВАЗОВ - НЕТ, Я ПРОШУ ТЕБЯ, НЕ ПЛАЧЬ	3236
+Александр АРСЕНЬЕВ	ГУБИТ ЛЮДЕЙ НЕ ПИВО	Александр АРСЕНЬЕВ - ГУБИТ ЛЮДЕЙ НЕ ПИВО	3237
+Александр БАРЫКИН	АЭРОПОРТ	Александр БАРЫКИН - АЭРОПОРТ	3238
+Александр БАРЫКИН	БУКЕТ	Александр БАРЫКИН - БУКЕТ	3239
+Александр БАРЫКИН	К ТЕБЕ	Александр БАРЫКИН - К ТЕБЕ	3240
+Александр БАРЫКИН	НОЧЬ ГОЛУБАЯ ТАЙНА	Александр БАРЫКИН - НОЧЬ ГОЛУБАЯ ТАЙНА	3241
+Александр БАРЫКИН	ПРО КУПЦА ПРОТАСОВА	Александр БАРЫКИН - ПРО КУПЦА ПРОТАСОВА	3242
+Александр БАРЫКИН	ПРОГРАММА ТЕЛЕПЕРЕДАЧ	Александр БАРЫКИН - ПРОГРАММА ТЕЛЕПЕРЕДАЧ	3243
+Александр БАРЫКИН	ТАЙНА	Александр БАРЫКИН - ТАЙНА	3244
+Александр БАРЫКИН	ТЕЧЁТ РЕКА ВОЛГА	Александр БАРЫКИН - ТЕЧЁТ РЕКА ВОЛГА	3245
+Александр БАШЛАЧЕВ	НЕКОМУ БЕРЕЗУ ЗАЛОМАТИ	Александр БАШЛАЧЕВ - НЕКОМУ БЕРЕЗУ ЗАЛОМАТИ	3246
+Александр БЕБЕНИН	33 РЕГИОН	Александр БЕБЕНИН - 33 РЕГИОН	3247
+Александр БЕБЕНИН	ДЕВЯТЫЙ ВАЛ	Александр БЕБЕНИН - ДЕВЯТЫЙ ВАЛ	3248
+Александр БЕБЕНИН	Я ПРИЕДУ	Александр БЕБЕНИН - Я ПРИЕДУ	3249
+Александр БЕШЕНЫЙ	Я НЕ МОГУ	Александр БЕШЕНЫЙ - Я НЕ МОГУ	3250
+Александр БОРОДА	ЗА ДРУЗЕЙ	Александр БОРОДА - ЗА ДРУЗЕЙ	3251
+Александр БУЙВАЛ	СЫНОК ГРИГОРИЙ	Александр БУЙВАЛ - СЫНОК ГРИГОРИЙ	3252
+Александр БУЙНОВ	GO DOWN MOSES	Александр БУЙНОВ - GO DOWN MOSES	3253
+Александр БУЙНОВ	LOVE ME TENDER	Александр БУЙНОВ - LOVE ME TENDER	3254
+Александр БУЙНОВ	БРОДЯЧИЕ АРТИСТЫ	Александр БУЙНОВ - БРОДЯЧИЕ АРТИСТЫ	3255
+Александр БУЙНОВ	В ОБЛАКА	Александр БУЙНОВ - В ОБЛАКА	3256
+Александр БУЙНОВ	В ПАРИЖЕ НОЧЬ	Александр БУЙНОВ - В ПАРИЖЕ НОЧЬ	3257
+Александр БУЙНОВ	ВДВ - С НЕБА ПРИВЕТ!	Александр БУЙНОВ - ВДВ - С НЕБА ПРИВЕТ!	3258
+Александр БУЙНОВ	ГДЕ ЖИВЁТ ЛЮБОВЬ	Александр БУЙНОВ - ГДЕ ЖИВЁТ ЛЮБОВЬ	3259
+Александр БУЙНОВ	ДВА ЧАСА ЛЮБОВЬ	Александр БУЙНОВ - ДВА ЧАСА ЛЮБОВЬ	3260
+Александр БУЙНОВ	ДВЕ ЖИЗНИ	Александр БУЙНОВ - ДВЕ ЖИЗНИ	3261
+Александр БУЙНОВ	ДОН	Александр БУЙНОВ - ДОН	3262
+Александр БУЙНОВ	ЗАЙКА	Александр БУЙНОВ - ЗАЙКА	3263
+Александр БУЙНОВ	ЗАЧЕМ	Александр БУЙНОВ - ЗАЧЕМ	3264
+Александр БУЙНОВ	КАРМАННЫЙ ВОР	Александр БУЙНОВ - КАРМАННЫЙ ВОР	3265
+Александр БУЙНОВ	ЛЮБИТЬ КАК В ПОСЛЕДНИЙ РАЗ	Александр БУЙНОВ - ЛЮБИТЬ КАК В ПОСЛЕДНИЙ РАЗ	3266
+Александр БУЙНОВ	ЛЮДИ ВСТРЕЧАЮТСЯ	Александр БУЙНОВ - ЛЮДИ ВСТРЕЧАЮТСЯ	3267
+Александр БУЙНОВ	МОИ ФИНАНСЫ ПОЮТ РОМАНСЫ	Александр БУЙНОВ - МОИ ФИНАНСЫ ПОЮТ РОМАНСЫ	3268
+Александр БУЙНОВ	МЫ В ОТВЕТЕ ЗА ТЕХ…	Александр БУЙНОВ - МЫ В ОТВЕТЕ ЗА ТЕХ…	3269
+Александр БУЙНОВ	НА ВЕТРУ	Александр БУЙНОВ - НА ВЕТРУ	3270
+Александр БУЙНОВ	НАМ С ТОБОЙ ПО ПУТИ	Александр БУЙНОВ - НАМ С ТОБОЙ ПО ПУТИ	3271
+Александр БУЙНОВ	ПАДАЮТ ЛИСТЬЯ	Александр БУЙНОВ - ПАДАЮТ ЛИСТЬЯ	3272
+Александр БУЙНОВ	ПАРАЛЛЕЛЬНЫЕ ПУТИ	Александр БУЙНОВ - ПАРАЛЛЕЛЬНЫЕ ПУТИ	3273
+Александр БУЙНОВ	ПОРА В ПУТЬ-ДОРОГУ	Александр БУЙНОВ - ПОРА В ПУТЬ-ДОРОГУ	3274
+Александр БУЙНОВ	ПОСВЯЩЕНИЕ ДРУГУ	Александр БУЙНОВ - ПОСВЯЩЕНИЕ ДРУГУ	3275
+Александр БУЙНОВ	ПУСТЬ	Александр БУЙНОВ - ПУСТЬ	3276
+Александр БУЙНОВ	РАННЯЯ ЗИМА	Александр БУЙНОВ - РАННЯЯ ЗИМА	3277
+Александр БУЙНОВ	РУКИ ТЕПЛЫЕ НА БАРХАТЕ ЦВЕТНОМ	Александр БУЙНОВ - РУКИ ТЕПЛЫЕ НА БАРХАТЕ ЦВЕТНОМ	3278
+Александр БУЙНОВ	СТО НЕДЕЛЬ	Александр БУЙНОВ - СТО НЕДЕЛЬ	3279
+Александр БУЙНОВ	СУДНЫЙ ДЕНЬ	Александр БУЙНОВ - СУДНЫЙ ДЕНЬ	3280
+Александр БУЙНОВ	ТАКОЙ ЖЕ, КАК ВСЕ	Александр БУЙНОВ - ТАКОЙ ЖЕ, КАК ВСЕ	3281
+Александр БУЙНОВ	ХОЛОДА	Александр БУЙНОВ - ХОЛОДА	3282
+Александр БУЙНОВ	ЧЕРТАНОВО	Александр БУЙНОВ - ЧЕРТАНОВО	3283
