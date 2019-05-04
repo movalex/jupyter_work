@@ -43,19 +43,15 @@ class Blob:
 
 
 def draw_env(blobs):
-    game_display.fill(RED)
+    game_display.fill(WHITE)
     for blob in blobs:
         pygame.draw.circle(game_display, blob.color, (blob.x, blob.y), blob.size)
         blob.move()
-    # pygame.draw.rect(game_display, RED, (100, 100, 50, 50), 1)
     pygame.display.update()
 
 
 def main():
-    # red_blob = Blob(color=RED)
     blue_blobs = [Blob(BLUE) for _ in range(STARTING_BLUE_BLOBS)]
-
-
     while True:
         for event in pygame.event.get():
             print(event)
